@@ -1,11 +1,9 @@
 # Dictionary Methods Cheat Sheet
 
-# # Definition
-# ------------
+# Definition
 # x = {key1:value1, key2:value2} 
 
-# # Operations
-# ------------
+# Operations
 # len(dictionary) - Returns the number of items in the dictionary
 # for key in dictionary - Iterates over each key in the dictionary
 # for key, value in dictionary.items() - Iterates over each key,value pair in the dictionary
@@ -14,8 +12,7 @@
 # dictionary[key] = value - Sets the value associated with key
 # del dictionary[key] - Removes the item with key from the dictionary
 
-# # Methods
-# ---------
+# Methods
 # dict.get(key, default) - Returns the element corresponding to key, or default if it's not present
 # dict.keys() - Returns a sequence containing the keys in the dictionary
 # dict.values() - Returns a sequence containing the values in the dictionary

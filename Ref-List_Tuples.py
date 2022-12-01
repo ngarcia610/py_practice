@@ -1,5 +1,4 @@
-# # Common sequence operations
-# ----------------------------
+# Common sequence operations
 # len(sequence) Returns the length of the sequence
 # for element in sequence Iterates over each element in the sequence
 # if element in sequence Checks whether the element is part of the sequence
@@ -7,8 +6,7 @@
 # sequence[i:j] Accesses a slice starting at index i, ending at index j-1. If i is omitted, it's 0 by default. If j is omitted, it's len(sequence) by default.
 # for index, element in enumerate(sequence) Iterates over both the indexes and the elements in the sequence at the same time
 
-# # List-specific operations and methods
-# --------------------------------------
+# List-specific operations and methods
 # list[i] = x Replaces the element at index i with x
 # list.append(x) Inserts x at the end of the list
 # list.insert(i, x) Inserts x at index i
@@ -20,8 +18,7 @@
 # list.copy() Creates a copy of the list
 # list.extend(other_list) Appends all the elements of other_list at the end of list
 
-# # List Comprehensions
-# ---------------------
+# List Comprehensions
 # [expression for variable in sequence] Creates a new list based on the given sequence.
 #  Each element is the result of the given expression.
 

@@ -1,7 +1,7 @@
 # Python 3 code to rename multiple
 # files in a directory or folder
-
 # importing os module
+
 import os
 
 # Function to rename multiple files

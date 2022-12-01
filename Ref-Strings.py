@@ -1,5 +1,4 @@
-# # String operations
-# -------------------
+# String operations
 # len(string) Returns the length of the string
 # for character in string Iterates over each character in the string
 # if substring in string Checks whether the substring is part of the string
@@ -7,8 +6,7 @@
 # string[i:j] Accesses the substring starting at index i, ending at index j-1. If i is omitted, it's 0 by default. If j is omitted, it's len(string) by default.
 
 
-# # String methods
-# ----------------
+# String methods
 # string.lower() / string.upper() Returns a copy of the string with all lower / upper case characters
 # string.lstrip() / string.rstrip() / string.strip() Returns a copy of the string without left / right / left or right whitespace
 # string.count(substring) Returns the number of times substring is present in the string
